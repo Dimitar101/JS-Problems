@@ -1,1 +1,1 @@
-# Some-JS
+# JavaScript problem solving
